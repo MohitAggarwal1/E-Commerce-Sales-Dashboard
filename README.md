@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 📁 **Dataset:** [E-Commerce Sales Dataset](https://www.kaggle.com/)  
-📸 **Instagram:** [Follow Me](https://www.instagram.com/mohhitaggarwal)  
-💼 **LinkedIn:** [Get In Touch](https://www.linkedin.com/in/mohitaggarwalofficial)
+📸 **Instagram:** [https://www.instagram.com/mohhitaggarwal](https://www.instagram.com/mohhitaggarwal)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/mohitaggarwalofficial](https://www.linkedin.com/in/mohitaggarwalofficial)
 
 ---
 
@@ -167,4 +167,5 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 ---
 
 ### ⭐ If you like this project, don’t forget to give it a star!
+
 
