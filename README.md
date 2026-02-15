@@ -4,7 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-🔗 **Live Demo:** [View Dashboard](https://app.powerbi.com/)  
 📁 **Dataset:** [E-Commerce Sales Dataset](https://www.kaggle.com/)  
 📸 **Instagram:** [Follow Me](https://www.instagram.com/mohhitaggarwal)  
 💼 **LinkedIn:** [Get In Touch](https://www.linkedin.com/in/mohitaggarwalofficial)
@@ -168,3 +167,4 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 ---
 
 ### ⭐ If you like this project, don’t forget to give it a star!
+
